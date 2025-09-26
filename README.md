@@ -2,6 +2,10 @@
 
 # QuickTimer 
 
+## Donate
+If you like this app, you can consider supporting my development work!
+https://buy.stripe.com/28E28k8KKavj1wn2SdgYU00
+
 ## Introduction
 
 Pomodoro Timer is a time management tool based on the classic Pomodoro Technique, featuring a modern Material Design interface. It helps you efficiently manage work and break times through scientifically segmented intervals, keeping you focused, productive, and well-rested.
